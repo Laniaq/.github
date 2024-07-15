@@ -1,3 +1,2 @@
-Objetivo do Projeto
-Desenvolver uma landing page atraente e informativa para apresentar a comunidade do GitHub da Laniaq. Esta página deve servir como um ponto de entrada para desenvolvedores e entusiastas que desejam se envolver com os projetos open-source da Laniaq, contribuindo para o desenvolvimento de soluções de supercomputação.
+Bem-vindo ao GitHub oficial da Laniaq! Somos uma empresa pioneira na integração de soluções de software e hardware, com foco em automação e inovação na indústria de hardware. Nossa missão é transformar ideias em realidade através de tecnologia avançada e desenvolvimento ágil.
 
