@@ -1,4 +1,4 @@
-## Bem vindo Dev!!
+## Ahoy Ahoy! Welcome aboard
 
 
 <center><img src="Isotipo_laniaq_illustrator_animacao.gif" alt="Descrição do GIF" width="200" /></center>
