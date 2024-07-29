@@ -12,3 +12,6 @@ Projeto Hermes - PostgreSQL
 
 Projeto Nebulosa - React, Next.js
 
+
+Projeto Atlas - Python
+
