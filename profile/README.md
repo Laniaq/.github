@@ -8,10 +8,10 @@ Bem-vindo ao GitHub oficial da Laniaq! Somos uma empresa pioneira na integraçã
 
 ## Projetos e Tecnologias
 
-Projeto Hermes - PostgreSQL
+[Projeto Hermes - PostgreSQL, Flask](https://github.com/Laniaq/projeto-hermes)
 
-Projeto Nebulosa - React, Next.js
+[Projeto Nebulosa - React, Next.js](https://github.com/Laniaq/project-nebulosa)
 
 
-Projeto Atlas - Python
+[Projeto Atlas - Python](https://github.com/Laniaq/projeto-atlas-)
 
